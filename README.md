@@ -1,0 +1,2 @@
+# Key_logger-C-
+Record all the keyboard and mouse input independent of the language settings as it logs the physical keys on the keyboard. The key-logger will operate in stealth mode and a common user would not be able to notice that it is running. The data collected is encrypted and sent to a mail address and then it is encrypted on the Attackers end. By using rootkit and exploit attacks Key-logger will be hidden on victim’s machine.
